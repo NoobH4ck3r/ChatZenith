@@ -21,7 +21,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/ChatZenith.git
+git clone https://github.com/Waleed-Hassan256/ChatZenith.git
 Navigate to the Directory:
 
 sh
