@@ -1,14 +1,14 @@
 ChatZenith - Uniting Conversations with Elegance
 ChatZenith Banner
 
-Welcome to ChatZenith, a masterpiece chat application that seamlessly connects people while embodying elegance and security at its core. With the collaborative efforts of Adnan429 as the frontend virtuoso and Waleed-Hassan256 as the backend maestro and vigilant security analyst, ChatZenith stands as a paragon of an exceptional chat experience fortified by robust safeguards.
+Welcome to ChatZenith, a masterpiece chat application that seamlessly connects people while embodying elegance and security at its core. With the collaborative efforts of Adnan429 as the frontend virtuoso and NoobH4ck3r as the backend maestro and vigilant security analyst, ChatZenith stands as a paragon of an exceptional chat experience fortified by robust safeguards.
 
 Features 🚀
 Real-time Messaging: Engage in conversations that transcend time delays. ChatZenith's real-time messaging ensures that every message resonates instantly, no matter the distance.
 
 User-Centric Interface: Adnan429's artistic finesse shines through in the frontend design, delivering an interface that is both captivating and user-friendly, elevating your chatting escapades.
 
-Fortified Security: Backed by Waleed-Hassan256's dual mastery in backend sorcery and security vigilantism, ChatZenith champions data security. Your sensitive information remains cloaked from prying eyes.
+Fortified Security: Backed by NoobH4ck3r's dual mastery in backend sorcery and security vigilantism, ChatZenith champions data security. Your sensitive information remains cloaked from prying eyes.
 
 Expressive Emojis: Amplify your expressions using an extensive assortment of emojis. ChatZenith empowers you to infuse emotions into every chat, making interactions vibrant and engaging.
 
@@ -21,7 +21,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/Waleed-Hassan256/ChatZenith.git
+git clone https://github.com/NoobH4ck3r/ChatZenith.git
 Navigate to the Directory:
 
 sh
